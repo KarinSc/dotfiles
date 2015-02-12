@@ -164,3 +164,14 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+
+[user]
+        name = Karin Schrader
+        email = karin.schrader@sealsystems.de
+[push]
+        default = simple
+[url "git@github.com:"]
+        insteadOf = "https://github.com/"
+
+
